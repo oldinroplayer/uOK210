@@ -2,8 +2,8 @@
 ip play.uaro.kiev.ua
 port 16900
 master_version 0
-version 19
-serverType 5
+version 20
+serverType 8
 addTableFolders translated/kRO_english
 #serverEncoding Western
 #addTableFolders Old
